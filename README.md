@@ -7,7 +7,7 @@
   <img src="./screenshots/image01.png" alt="Crossy Road Logo" width="200">
 </p>
 
-> Una versión recompilada del clásico juego **Crossy Road**, desarrollada en colaboración con **Poki Games** y **Whipster Whale**, utilizando la poderosa librería **Three.js** para gráficos 3D en el navegador.
+> Una versión recompilada del clásico juego **Crossy Road**, desarrollada en colaboración con **Poki Games** y **Whipster Whale**, utilizando la librería **Three.js** para gráficos 3D en el navegador.
 
 ---
 
