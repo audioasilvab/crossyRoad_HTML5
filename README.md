@@ -1,33 +1,14 @@
 # Crossy Road HTML5 Recompiled 
 ![Captura de pantalla](./screenshots/image01.png)
-Una recopilación del conocido juego Crossy Road desarrollado junto a Poki Games y Whipster Whale con la libreria de Three.js
 
-Este proyecto busca demostrar que conceptos como planificación de procesos, gestión de memoria y entrada/salida pueden ser emulados con herramientas modernas, sirviendo como puente entre la teoría de sistemas operativos y la práctica en la web.
+Una recopilación del conocido juego Crossy Road desarrollado junto a Poki Games y Whipster Whale con la libreria de Three.js.
 
-![Captura de pantalla](./scr/screenshots/demo1.png)
-
-![Captura de pantalla](./assets/screenshots/demo2.png)
-
-## ✨ Próximas mejoras
-
-Estas son las funcionalidades que se estarán desarrollando para las próximas actualizaciones:
-
-- 🧩 **Desarrollo de aplicaciones nativas**  
-  Crea y ejecuta aplicaciones dentro del entorno de vanillaOS
-
-- 🐧 **Soporte para aplicaciones Linux**  
-  Compatibilidad con ejecutables y herramientas del ecosistema Linux
-
-- 🎨 **Rediseño de la interfaz**  
-  Experiencia de usuario más fluida e intuitiva similar a la de Gnome en su versión 50
-
-- 🪟 **Gestor de ventanas mejorado**  
-  Mayor control y personalización en la organización de ventanas
+![Captura de pantalla](./screenshots/image02.png)
 
 ## 🚀 Instalación y ejecución
 
 ### Requisitos previos
-- [Node.js](https://nodejs.org/) (v16+)
+- [Python](https://python.org/) (v3.14.0+)
 - [Git](https://git-scm.com/)
 - Navegador web moderno
 
@@ -35,16 +16,13 @@ Estas son las funcionalidades que se estarán desarrollando para las próximas a
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/audioasilvab/vanillaOS.git
+git clone https://github.com/audioasilvab/crossyRoad_HTML5.git
 
 # Acceder a la carpeta
-cd vanillaOS
-
-# Instalación de dependencias
-npm install
+cd crossyRoad_HTML5
 
 # Iniciar el servidor
-node server
+python -m http.server 8000
 ```
 
 ## 🔗 Acceso
