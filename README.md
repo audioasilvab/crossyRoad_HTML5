@@ -44,3 +44,9 @@ cd crossyRoad_HTML5
 
 # Iniciar servidor HTTP
 python -m http.server 8000
+```
+
+### 🌐 Acceso al juego
+Una vez iniciado el servidor, abre tu navegador y visita:
+
+👉 http://localhost:8000
